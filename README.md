@@ -2,6 +2,8 @@
 
 <!-- ### About me -->
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=supersmf&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Languages and Tools
   ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=017ACC)
