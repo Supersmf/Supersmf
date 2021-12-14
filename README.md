@@ -2,6 +2,8 @@
 
 <!-- ### About me -->
 
+![Сodewars](https://www.codewars.com/users/Supersmf/badges/large)
+
 [![Anurag's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=supersmf&show_icons=true&include_all_commits=true&theme=material-palenight)](https://github.com/supersmf)
 
 ### Languages and Tools
